@@ -1220,7 +1220,7 @@ GEM
     mixlib-shellout (3.2.7)
       chef-utils
     mize (0.6.1)
-    msgpack (1.5.4)
+    msgpack (1.8.2)
     multi_json (1.17.0)
     multi_xml (0.6.0)
     multipart-post (2.2.3)

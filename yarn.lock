@@ -3232,10 +3232,10 @@
     dom-accessibility-api "^0.5.1"
     pretty-format "^26.4.2"
 
-"@tiptap/core@^2.26.4":
-  version "2.26.4"
-  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-2.26.4.tgz#4ac1772ca1164ad8bc3cb85ad51eab5d5fa9aff4"
-  integrity sha512-F8t0Nc1OeV51CCHR1WYVMg/gOzHD2fJALUpMxF67/LDjFnxM/rarsqTQnLZuBoP9U3TfbNLSAQLZ4TCnBZnXRA==
+"@tiptap/core@^3.30.4":
+  version "3.30.4"
+  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-3.30.4.tgz#9e0847c5f4dd53750ae3accc6b83223e37f693b3"
+  integrity sha512-V9yKuUfV8qC9WBrnVxkFWmYLBomc3d1CwXoFSjED5DRu5q2oyxv07F+jOJSRogJAY+feHjuxvjhixwxeHm2DXQ==
 
 "@tiptap/extension-blockquote@^2.26.4":
   version "2.26.4"
